@@ -1,10 +1,28 @@
 title: "Code Promo WISEWAND - 10% à vie avec le code AVISDEJULIE"
 description: "Découvrez WISEWAND, l'outil parfait pour créer des fiches produit optimisées SEO. Utilisez le code promo AVISDEJULIE et bénéficiez de -10% à vie."
 author: "Ludovic - AvisDeJulie.fr"
+
+# SEO Meta Tags
 lang: "fr"
 logo: "/assets/images/logo_wisewand.png"
+
+# Jekyll SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# Réseaux sociaux
 social:
   name: "AvisDeJulie"
   links:
     - "https://avisdejulie.fr"
     - "https://wisewand.ai/?fpr=ludovic64"
+
+# Theme du site (ex: Cayman)
+theme: jekyll-theme-cayman
+
+# Exclure les fichiers inutiles pour le SEO
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
