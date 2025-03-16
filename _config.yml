@@ -37,3 +37,5 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
+
+force_rebuild: true
