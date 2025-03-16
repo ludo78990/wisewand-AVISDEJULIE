@@ -7,6 +7,16 @@ author: "Ludovic - AvisDeJulie.fr"
 lang: "fr"
 logo: "/assets/images/logo_wisewand.png"
 
+# Désactiver la concaténation du titre avec la description
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      seo:
+        title: "Code Promo WISEWAND - 10% à vie avec le code AVISDEJULIE"
+        description: "WISEWAND est l'outil idéal pour créer des fiches produit e-commerce optimisées SEO."
+
 # Jekyll SEO Plugin
 plugins:
   - jekyll-seo-tag
