@@ -1,21 +1,11 @@
-title: "Code Promo WISEWAND - 10% à vie avec le code AVISDEJULIE"
+title: "✅ Code Promo WISEWAND : AVISDEJULIE"
 description: "Découvrez WISEWAND, l'outil parfait pour créer des fiches produit optimisées SEO. Utilisez le code promo AVISDEJULIE et bénéficiez de -10% à vie."
-tagline: ""
+tagline: " - 10% A VIE ! 🚀"
 author: "Ludovic - AvisDeJulie.fr"
 
 # SEO Meta Tags
 lang: "fr"
 logo: "/assets/images/logo_wisewand.png"
-
-# Désactiver la concaténation du titre avec la description
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      seo:
-        title: "Code Promo WISEWAND - 10% à vie avec le code AVISDEJULIE 2"
-        description: "Découvrez WISEWAND, l'outil parfait pour créer des fiches produit optimisées SEO. Utilisez le code promo AVISDEJULIE et bénéficiez de -10% à vie. 2"
 
 # Jekyll SEO Plugin
 plugins:
